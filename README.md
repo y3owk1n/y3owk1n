@@ -1,8 +1,10 @@
-## A vim lover with a macOS
+# A vim lover with a macOS
 
 I built programs mainly for my own use cases. Currently manages the whole system via nix darwin & home manager on my macOS. Here's my [system repo](https://github.com/y3owk1n/nix-system-config-v2).
 
-### What I've built and still using
+## What I've built and still using
+
+### Neovim
 
 #### Neovim plugins
 
@@ -18,6 +20,12 @@ I built programs mainly for my own use cases. Currently manages the whole system
 
 - [nvs](https://github.com/y3owk1n/nvs) - lightweight Neovim Version & Config Manager CLI tool that supports github actions
 
-#### Keyboard navigation
+### System Utils
+
+#### Keyboard navigation (Partially cross platform, mainly macOS)
 
 - [neru](https://github.com/y3owk1n/neru) - keyboard-driven navigation for macOS, open source alternative to homerow, vimac and shortcat
+
+#### macOS event doemon that reacts
+
+- [mimi](https://github.com/y3owk1n/mimi) - A macOS event daemon that runs your shell commands when things happen
