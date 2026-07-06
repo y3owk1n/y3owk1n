@@ -29,3 +29,7 @@ I built programs mainly for my own use cases. Currently manages the whole system
 #### macOS event doemon that reacts
 
 - [mimi](https://github.com/y3owk1n/mimi) - A macOS event daemon that runs your shell commands when things happen
+
+#### The universal remote for your media files
+
+- [uts](https://github.com/y3owk1n/uts) - Stop memorizing complex commands. Compress, convert, and inspect any media file using the same simple pattern
