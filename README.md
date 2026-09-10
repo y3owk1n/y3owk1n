@@ -28,7 +28,7 @@ I built programs mainly for my own use cases. Currently manages the whole system
 
 #### macOS event doemon that reacts
 
-- [mimi](https://github.com/y3owk1n/mimi) - A macOS event daemon that runs your shell commands when things happen
+- [mimi](https://github.com/y3owk1n/mimi) - A macOS event daemon that runs your shell commands when things happen, now with optional tiling, borders and animations.
 
 #### The universal remote for your media files
 
