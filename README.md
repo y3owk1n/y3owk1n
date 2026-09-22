@@ -33,3 +33,7 @@ I built programs mainly for my own use cases. Currently manages the whole system
 #### The universal remote for your media files
 
 - [uts](https://github.com/y3owk1n/uts) - Stop memorizing complex commands. Compress, convert, and inspect any media file using the same simple pattern
+
+#### Cross platform package manager and more without nix
+
+- [oku](https://github.com/y3owk1n/oku) - A cross-platform package manager with no central registry. TOML manifests, a lockfile, an immutable store. Like nix, but not nix.
