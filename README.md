@@ -1,6 +1,6 @@
 # A vim lover with a macOS
 
-I built programs mainly for my own use cases. Currently manages the whole system via nix darwin & home manager on my macOS. Here's my [system repo](https://github.com/y3owk1n/nix-system-config-v2).
+I built programs mainly for my own use cases. Currently manages the whole system via my own nix like tool, aka [oku](https://github.com/y3owk1n/oku) on my macOS. Here's my [system oku config](https://github.com/y3owk1n/oku-config). Migrated from my previous [nix darwin](https://github.com/y3owk1n/nix-system-config-v2)
 
 ## What I've built and still using
 
@@ -18,7 +18,7 @@ I built programs mainly for my own use cases. Currently manages the whole system
 
 #### Neovim utils
 
-- [nvs](https://github.com/y3owk1n/nvs) - lightweight Neovim Version & Config Manager CLI tool that supports github actions
+- Superseded via oku ~[nvs](https://github.com/y3owk1n/nvs) - lightweight Neovim Version & Config Manager CLI tool that supports github actions~
 
 ### System Utils
 
